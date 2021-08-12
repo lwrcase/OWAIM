@@ -1,0 +1,21 @@
+{
+  "name": "owaim",
+  "version": "1.0.0",
+  "description": "An open source implementation of OSCAR server protcol in node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "AIM",
+    "OSCAR",
+    "OWAIM",
+    "BOS"
+  ],
+  "author": "Carlos Garcia <carlos@lwrca.se>",
+  "license": "MIT",
+  "dependencies": {
+    "extend": "^3.0.2",
+    "sqlite3": "^5.0.2"
+  }
+}
