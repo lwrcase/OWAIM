@@ -12,8 +12,8 @@
     "OWAIM",
     "BOS"
   ],
-  "author": "Carlos Garcia <carlos@lwrca.se>",
-  "license": "MIT",
+  "author": "Carlos Garcia <carlos@lwrca.se>; Christian Monroe <monroec@gmail.com>",
+  "license": "Unlicense",
   "dependencies": {
     "extend": "^3.0.2",
     "sqlite3": "^5.0.2"
